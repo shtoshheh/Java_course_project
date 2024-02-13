@@ -1,0 +1,26 @@
+.root {
+    -fx-font-family: "Comic Sans MS";
+    -fx-alignment: center;
+}
+
+.label {
+    -fx-font-family: "Comic Sans MS";
+    -fx-alignment: center;
+}
+
+.button {
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+}
+
+.titled-pane {
+    -fx-font-family: "Comic Sans MS";
+    -fx-alignment: center;
+}
+
+#contentStackPane {
+    -fx-background-color: white;
+    -fx-background-radius: 20;
+    -fx-alignment: center;
+}
